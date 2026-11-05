@@ -1,0 +1,17 @@
+{
+  "name": "Buscador CIE-10",
+  "short_name": "CIE-10",
+  "description": "Buscador CIE-10 completo, sin conexión. Creado por SANRYU",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17374f",
+  "theme_color": "#17374f",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

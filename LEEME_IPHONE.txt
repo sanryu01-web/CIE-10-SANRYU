@@ -1,0 +1,8 @@
+BUSCADOR CIE-10 PARA IPHONE (PWA)
+Creador: SANRYU
+
+1. Sube TODA esta carpeta a un hosting con HTTPS (Netlify Drop, GitHub Pages, Cloudflare Pages, o el servidor de tu institución).
+2. En el iPhone abre la dirección con SAFARI.
+3. Botón Compartir > "Añadir a pantalla de inicio" > Añadir.
+4. Abre el icono una vez con Internet; después funciona sin conexión.
+   El PDF (32 MB) y el Excel se guardan la primera vez que los abras desde la app.
